@@ -2,7 +2,11 @@
 
 A minimalist and landing page for **Bankist**, a fictional banking app. This JavaScript project showcases smooth scrolling, sticky navigation, lazy image loading, section reveals, a testimonial slider, and interactive UI elements.
 
-## 🚀 Features
+## Live-Demo
+
+[VISIT WEBPAGE](https://bankist-landing-page-daria-aleshina.netlify.app/)
+
+## Features
 
 - **Smooth Page Navigation:** Clickable navigation links with smooth scrolling.
 - **Sticky Navigation:** Navigation bar sticks to the top on scroll.
