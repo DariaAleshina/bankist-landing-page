@@ -8,7 +8,7 @@ A minimalist and landing page for **Bankist**, a fictional banking app. This Jav
 
 ⚠️ Mobile Responsiveness: This project is best viewed on desktop. Mobile support is in progress!
 
-![Main Screen](bankist-header-screenshot.png)
+![Main Screen](bankist-header-screeshot.png)
 
 ## Features
 
