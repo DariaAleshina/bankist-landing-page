@@ -6,6 +6,8 @@ A minimalist and landing page for **Bankist**, a fictional banking app. This Jav
 
 [VISIT WEBPAGE](https://bankist-landing-page-daria-aleshina.netlify.app/)
 
+⚠️ Mobile Responsiveness: This project is best viewed on desktop. Mobile support is in progress!
+
 ## Features
 
 - **Smooth Page Navigation:** Clickable navigation links with smooth scrolling.
